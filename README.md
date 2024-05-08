@@ -1,6 +1,6 @@
 # Webex External Meeting Tracker (Webex Eyes)
 
-**Background:** <br/> For some comapanies and job roles, it might be useful to have some visbility into how many external meetings the user is having for job performace monitoring reasons or security purposes 
+**Background:** <br/> For some companies and job roles, it might be useful to have some visbility into how many external meetings the user is having for job performace monitoring reasons or security purposes 
 <br/>
 
 **Definition:**
