@@ -1,0 +1,69 @@
+/* Login/Home Page Styling */
+.submit {
+  text-align: center;
+  position: fixed; 
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+
+/* #a875fc  #00bcf5 */
+.submit label {
+  text-align: left;
+  display: block;
+  color:  #00bcf5;
+}
+.submit h2 {
+  font-size: 20px;
+  color: #00bcf5;
+  margin-bottom: 30px;
+}
+.submit input, .submit textarea, .submit select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+.submit button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  background: #00bcf5;
+  color: #fff;
+  
+}
+.submit button:hover {
+  background: #535bf2;
+}
+
+p.errormsg {
+  color: red;
+}
+
+
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}

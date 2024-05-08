@@ -1,0 +1,25 @@
+.user {
+    padding-top: 100px;
+    min-width: 100vw;
+    min-height: 100vh;
+    background-color:#1D1D1D;
+    overscroll-behavior: none;
+}
+   
+.user h2 {
+    color: whitesmoke;
+    padding-bottom: 50px;
+    font-size: large;
+    font-weight: bold;
+    
+}
+
+.user .date {
+   padding-bottom: 100px;
+ 
+}
+
+::-webkit-calendar-picker-indicator {
+    filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(333deg) brightness(101%) contrast(102%);
+}
+
