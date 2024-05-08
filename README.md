@@ -30,7 +30,7 @@ WebexEyes makes use of WebexMeetings API to create a dashboard that provides gre
 
 # App Design <br />
 ![Overall Block Diagram](https://github.com/jiajiacisco/WebexMeetingCounter/blob/main/images/p7.png)
-![Overall Block Diagram](https://github.com/jiajiacisco/MerakiStudentPresence/blob/main/images/p8.png)
+![Overall Block Diagram](https://github.com/jiajiacisco/WebexMeetingCounter/blob/main/images/p8.png)
 
 **Technolgies Used:** 
 Webex ControlHub, WebexMeetings API, ReactJS, Python, Flask
